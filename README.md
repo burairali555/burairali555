@@ -110,7 +110,7 @@ currently_learning:
 
 <div align="center">
 
-![Burair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=burair-ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Burair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=burairali555&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=burair-ali&layout=compact&theme=tokyonight&hide_border=true)
 
